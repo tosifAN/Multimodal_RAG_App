@@ -38,7 +38,7 @@ In this repository, you will find the code and resources for creating a cutting-
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/AIAnytime/MultimodalRAGApp
+    git clone https://github.com/tosifAN/Multimodal_RAG_App.git
     cd Multimodal_RAG_App
     ```
 
