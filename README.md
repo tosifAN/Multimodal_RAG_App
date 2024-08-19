@@ -39,7 +39,7 @@ In this repository, you will find the code and resources for creating a cutting-
 
     ```bash
     git clone https://github.com/AIAnytime/MultimodalRAGApp
-    cd MultimodalRAGApp
+    cd Multimodal_RAG_App
     ```
 
 2. Install the required dependencies:
